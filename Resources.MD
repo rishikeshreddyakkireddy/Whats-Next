@@ -38,11 +38,20 @@
 
 ## Websites for Job Hunt
 
-* will be updated
+* LinkedIN
+* Unstop
+* hackerearth
+* Angel.co
+* CutShot
+* Indeed
+* Internshala
+* Insta hyre
+* Shine
+* Monster
 
 ## InterviewBit
 
 * Oops - [Link](https://www.interviewbit.com/oops-interview-questions/)
 * Java - [Link](https://www.interviewbit.com/java-interview-questions/)
 * C - [Link](https://www.interviewbit.com/c-interview-questions/)
-* SQL - [Link](https://www.interviewbit.com/sql-interview-questions/)
+* SQL - [Link](https://www.interviewbit.com/sql-interview-questions/
